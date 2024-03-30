@@ -26,11 +26,11 @@ To create a simple Extract, Transform, Load (ETL) pipeline using Databricks to g
 2. Gain practical knowledge of using Databricks and AWS for ETL workflows.
 3. Learn how to handle data across different platforms and services.
 
-## Architecture-
-![Architecture of ETL pipeline](https://github.com/VidishaSharma26/ETL-Pipeline-Loading-Text-file-from-DBFS-to-Postgres-Database-in-AWS-RDS-Simple-pyspark-project/assets/132566486/23c82b7d-cb04-425c-a2bd-2c44b159eba0)
-
 ## Output-
 After successfully creating a connection with AWS RDS instance, we can query the text file in our local Postgre PgAdmin
 
+
+## Architecture-
+![Architecture of ETL pipeline](https://github.com/VidishaSharma26/ETL-Pipeline-Loading-Text-file-from-DBFS-to-Postgres-Database-in-AWS-RDS-Simple-pyspark-project/assets/132566486/23c82b7d-cb04-425c-a2bd-2c44b159eba0)
 
 
