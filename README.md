@@ -8,12 +8,13 @@
 To create a simple Extract, Transform, Load (ETL) pipeline using Databricks to gain understanding of ETL concepts and components and the process of connecting PySpark code with a database.
 
 ## Tools:
-1. Databricks: Platform for executing the ETL pipeline.
-2. Databricks Notebook: PySpark script executed within Databricks environment for ETL operations.
-3. DBFS: Databricks File System serving as the source of raw data.
-4. PySpark: Python library used for data processing within Databricks.
+1. Databricks: Cloud-based big data processing platform that provides an integrated environment for data engineering and analytics tasks and to perform ETL pipelines.
+2. Databricks Notebook: Interactive web-based interface within Databricks for writing and executing code, including PySpark scripts, SQL queries, and visualizations.
+3. DBFS:  Distributed file system provided by Databricks for storing and accessing data within the Databricks environment.
+4. PySpark:Python API for Apache Spark, a distributed computing framework for processing large datasets.
 5. AWS: Cloud platform for hosting the PostgreSQL database.
-6. AWS RDS: Relational Database Service provided by AWS for hosting the PostgreSQL database.
+6. AWS RDS (Amazon Relational Database Service): Fully managed relational database service provided by Amazon Web Services (AWS) for hosting PostgreSQL databases.
+7. PostgreSQL Database: Open-source relational database management system used for storing and managing structured data
 
 ## Pipeline Steps:
 1. Data Extraction: Read data from the text file stored in DBFS using PySpark.
